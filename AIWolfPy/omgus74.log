@@ -1,0 +1,1876 @@
+# INIT: I am agent 10
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: 0, 10, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: 0, 20, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 20, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 20, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 20, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 20, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 20, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 20, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 20, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 20, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 20, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 20, 0, 0, 0, 0, 0, 0, 0, -10000
+# VOTE: 2
+# UPDATE
+Agent 5 voted for me!
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: -10000, 20, 0, 0, 100, 0, 0, 0, 0, -10000
+# VOTE: 5
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: -20000, 20, 0, -10000, 100, 0, 0, 0, 0, -10000
+# VOTE: 5
+# UPDATE
+Hate Score: -30000, 20, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: -30000, 20, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -30000, 20, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: -30000, 30, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -30000, 30, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: -30000, 40, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -30000, 40, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -30000, 40, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -30000, 40, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -30000, 40, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -30000, 40, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -30000, 40, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# UPDATE
+Hate Score: -30000, 40, 0, -20000, 100, -10000, -10000, 0, 0, -10000
+# VOTE: 5
+# UPDATE
+Agent 3 voted for me!
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# DAYSTART
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# VOTE: 3
+# UPDATE
+Hate Score: -40000, 40, 100, -30000, -9900, -20000, -20000, 0, -10000, -10000
+# FINISH
+# INIT: I am agent 10
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# VOTE: 1
+# UPDATE
+Hate Score: -10000, 0, 0, 0, 0, 0, 0, 0, 0, -20000
+# DAYSTART
+# UPDATE
+Hate Score: -10000, 0, 0, 0, 0, 0, 0, 0, 0, -20000
+# UPDATE
+Hate Score: -20000, -10000, 0, -10000, 0, 0, 0, 0, 0, -30000
+# DAYSTART
+# UPDATE
+Hate Score: -20000, -10000, 0, -10000, 0, 0, 0, 0, 0, -30000
+# UPDATE
+Hate Score: -20000, -10000, 0, -10000, 0, 0, 0, 0, 0, -30000
+# FINISH
+# INIT: I am agent 10
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: DAY 1 (DIVINED Agent[10] HUMAN)
+Hate Score: 1, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: DIVINED Agent[10] HUMAN
+Hate Score: 2, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 2, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# VOTE: 1
+# UPDATE
+Hate Score: 2, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# GUARD
+# UPDATE
+Hate Score: 2, 0, -10000, 0, 0, 0, -10000, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: 2, 0, -10000, 0, 0, 10, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: 2, 0, -10000, 0, 0, 20, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -10000, 0, 0, 20, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -10000, 0, 0, 20, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -10000, 0, 0, 20, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -10000, 0, 0, 20, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -10000, 0, 0, 20, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -10000, 0, 0, 20, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -10000, 0, 0, 20, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -10000, 0, 0, 20, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -10000, 0, 0, 20, -10000, 0, 0, -10000
+# UPDATE
+Hate Score: 2, 0, -10000, 0, 0, 20, -10000, 0, 0, -10000
+# VOTE: 6
+# UPDATE
+Hate Score: 2, 0, -10000, 0, 0, 20, -10000, 0, 0, -10000
+# GUARD
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# UPDATE
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 0, 0, -10000
+# VOTE: 1
+# UPDATE
+Agent 8 voted for me!
+Hate Score: 2, 0, -20000, 0, -10000, -9980, -20000, 100, 0, -10000
+# GUARD
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# VOTE: 8
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# GUARD
+# UPDATE
+Hate Score: -9998, 0, -30000, -10000, -20000, -19980, -30000, 100, 0, -10000
+# FINISH
+# INIT: I am agent 10
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: DAY 1 (DIVINED Agent[10] WEREWOLF)
+Hate Score: 0, 0, 0, 0, 10, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: DIVINED Agent[10] WEREWOLF
+Hate Score: 0, 0, 0, 0, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: BECAUSE (DAY 1 (DIVINED Agent[10] WEREWOLF)) (AND (VOTE Agent[10]) (REQUEST ANY (VOTE Agent[10])))
+Hate Score: 0, 0, 0, 0, 30, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 30, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: VOTE Agent[10]
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# VOTE: 5
+# UPDATE
+Agent 2 voted for me!
+Agent 5 voted for me!
+Agent 7 voted for me!
+Hate Score: 0, 100, 0, 0, 150, 0, 100, 0, 0, -10000
+# VOTE: 5
+# UPDATE
+Agent 3 voted for me!
+Hate Score: 0, 100, 100, 0, 150, 0, 100, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, 100, 0, 150, 0, 100, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, 100, 0, 150, 0, 100, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, 100, 0, 150, 0, 100, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, 100, 0, 150, 0, 100, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, 100, 0, 150, 0, 100, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, 100, 0, 150, 0, 100, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, 100, 0, 150, 0, 100, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, 100, 0, 150, 0, 100, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, 100, 0, 150, 0, 100, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, 100, 0, 150, 0, 100, 0, 0, -10000
+# ATTACK: 5
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 150, 0, 100, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: 0, 100, -9900, 0, 150, 0, 110, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: 0, 100, -9900, 0, 150, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: BECAUSE (DAY 1 (DIVINED Agent[10] WEREWOLF)) (AND (VOTE Agent[10]) (REQUEST ANY (VOTE Agent[10])))
+Hate Score: 0, 100, -9900, 0, 160, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 160, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: VOTE Agent[10]
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: 0, 100, -9900, 0, 180, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 180, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 180, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 180, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 180, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 180, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 180, 0, 120, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 180, 0, 120, 0, 0, -10000
+# VOTE: 5
+# UPDATE
+Agent 5 voted for me!
+Hate Score: 0, 100, -9900, 0, 280, 0, 120, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 280, 0, 120, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 280, 0, 120, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 280, 0, 120, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 280, 0, 120, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 280, 0, 120, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 280, 0, 120, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 280, 0, 120, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 280, 0, 120, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 280, 0, 120, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 100, -9900, 0, 280, 0, 120, 0, 0, -10000
+# ATTACK: 5
+# UPDATE
+Hate Score: -10000, 100, -19900, 0, -9720, 0, 120, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: -10000, 100, -19900, 10, -9720, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 100, -19900, 10, -9720, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 120, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 120, 0, 0, -10000
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 120, 0, 0, -10000
+# VOTE: 7
+# UPDATE
+Agent 7 voted for me!
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 220, 0, 0, -10000
+# VOTE: 7
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 220, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 220, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 220, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 220, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 220, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 220, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 220, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 220, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 220, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 220, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 100, -19900, 20, -9720, 0, 220, 0, 0, -10000
+# ATTACK: 7
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# DAYSTART
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 0, -9780, 0, -10000, -10000
+# VOTE: 2
+# UPDATE
+Agent 6 voted for me!
+Hate Score: -20000, 100, -29900, 20, -19720, 100, -9780, 0, -10000, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 100, -9780, 0, -10000, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 100, -9780, 0, -10000, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 100, -9780, 0, -10000, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 100, -9780, 0, -10000, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 100, -9780, 0, -10000, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 100, -9780, 0, -10000, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 100, -9780, 0, -10000, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 100, -9780, 0, -10000, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 100, -9780, 0, -10000, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 100, -9780, 0, -10000, -10000
+# ATTACK: 2
+# UPDATE
+Hate Score: -20000, 100, -29900, 20, -19720, 100, -9780, 0, -10000, -10000
+# FINISH
+# INIT: I am agent 10
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# VOTE: 1
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# ATTACK: 1
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# ATTACK: 1
+# UPDATE
+Hate Score: -10000, 0, 0, 0, -10000, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: -10000, 0, 10, 0, -10000, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# VOTE: 3
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -10000, 0, 20, 0, -10000, 0, 0, 0, 0, -10000
+# ATTACK: 3
+# UPDATE
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: VOTE Agent[10]
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# UPDATE
+Hate Score: -20000, 0, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# VOTE: 7
+# UPDATE
+Agent 2 voted for me!
+Hate Score: -20000, 100, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: -20000, 100, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# ATTACK: 2
+# UPDATE
+Hate Score: -20000, 100, -9980, 0, -20000, -10000, 20, 0, 0, -10000
+# FINISH
+# INIT: I am agent 10
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# VOTE: 1
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# VOTE: 1
+# UPDATE
+Hate Score: 0, 0, 0, -10000, 0, 0, -10000, 0, 0, -10000
+# VOTE: 1
+# UPDATE
+Hate Score: -10000, 0, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: -10000, 0, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: -10000, 10, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: -10000, 20, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 20, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# UPDATE
+Hate Score: -10000, 20, 0, -20000, 0, -10000, -20000, 0, 0, -10000
+# VOTE: 2
+# UPDATE
+Agent 3 voted for me!
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# VOTE: 3
+# UPDATE
+Hate Score: -20000, -9980, 100, -30000, -10000, -20000, -30000, 0, 0, -10000
+# FINISH
+# INIT: I am agent 10
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Talking about me: VOTE Agent[10]
+Talking about me: VOTE Agent[10]
+Hate Score: 0, 0, 0, 10, 10, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: 0, 0, 0, 20, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 20, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 20, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 20, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 20, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 20, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 20, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 20, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 20, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 20, 20, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 20, 20, 0, 0, 0, 0, -10000
+# VOTE: 4
+# UPDATE
+Agent 2 voted for me!
+Agent 8 voted for me!
+Hate Score: 0, 100, 0, 20, 20, 0, 0, 100, 0, -10000
+# VOTE: 2
+# UPDATE
+Hate Score: 0, 100, 0, 20, 20, 0, 0, 100, 0, -10000
+# GUARD
+# UPDATE
+Hate Score: 0, 100, -10000, 20, 20, 0, 0, -9900, 0, -10000
+# DAYSTART
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: 0, 100, -10000, 20, 20, 0, 10, -9900, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: 0, 100, -10000, 20, 20, 0, 20, -9900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -10000, 20, 20, 0, 20, -9900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -10000, 20, 20, 0, 20, -9900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -10000, 20, 20, 0, 20, -9900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -10000, 20, 20, 0, 20, -9900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -10000, 20, 20, 0, 20, -9900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -10000, 20, 20, 0, 20, -9900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -10000, 20, 20, 0, 20, -9900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -10000, 20, 20, 0, 20, -9900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 100, -10000, 20, 20, 0, 20, -9900, 0, -10000
+# UPDATE
+Hate Score: 0, 100, -10000, 20, 20, 0, 20, -9900, 0, -10000
+# VOTE: 2
+# UPDATE
+Hate Score: 0, 100, -10000, 20, 20, 0, 20, -9900, 0, -10000
+# GUARD
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# VOTE: 4
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# GUARD
+# UPDATE
+Hate Score: 0, -9900, -20000, 20, 20, 0, -9980, -19900, 0, -10000
+# FINISH
+# INIT: I am agent 10
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: DAY 1 (DIVINED Agent[10] WEREWOLF)
+Hate Score: 0, 0, 0, 0, 10, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 10, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: DIVINED Agent[10] WEREWOLF
+Hate Score: 0, 0, 0, 0, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: BECAUSE (DAY 1 (DIVINED Agent[10] WEREWOLF)) (AND (VOTE Agent[10]) (REQUEST ANY (VOTE Agent[10])))
+Talking about me: VOTE Agent[10]
+Hate Score: 0, 0, 0, 0, 40, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 40, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 50, 0, 0, 0, 0, -10000
+# VOTE: 5
+# UPDATE
+Agent 5 voted for me!
+Hate Score: 0, 0, 0, 0, 150, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 150, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 150, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 150, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 150, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 150, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 150, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 150, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 150, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 150, 0, 0, 0, 0, -10000
+# WHISPER
+# UPDATE
+Hate Score: 0, 0, 0, 0, 150, 0, 0, 0, 0, -10000
+# ATTACK: 5
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# VOTE: 1
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# VOTE: 1
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# ATTACK: 1
+# UPDATE
+Hate Score: 0, 0, 0, -10000, -9850, 0, 0, 0, 0, -10000
+# ATTACK: 1
+# UPDATE
+Hate Score: -10000, 0, 0, -20000, -19850, -10000, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: -10000, 0, 10, -20000, -19850, -10000, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: -10000, 0, 20, -20000, -19850, -10000, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -20000, -19850, -10000, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -20000, -19850, -10000, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -20000, -19850, -10000, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -20000, -19850, -10000, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -20000, -19850, -10000, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -20000, -19850, -10000, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -20000, -19850, -10000, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -20000, -19850, -10000, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -20000, -19850, -10000, 0, 0, 0, -10000
+# UPDATE
+Hate Score: -10000, 0, 20, -20000, -19850, -10000, 0, 0, 0, -10000
+# VOTE: 3
+# UPDATE
+Hate Score: -10000, 0, 20, -20000, -19850, -10000, 0, 0, 0, -10000
+# ATTACK: 3
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 0, -10000, 0, -10000
+# DAYSTART
+# UPDATE
+Talking about me: DAY 4 (DIVINED Agent[10] HUMAN)
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 1, -10000, 0, -10000
+# TALK
+# UPDATE
+Talking about me: DIVINED Agent[10] HUMAN
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# VOTE: 7
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# VOTE: 7
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# ATTACK: 7
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# ATTACK: 7
+# UPDATE
+Hate Score: -20000, 0, -9980, -30000, -29850, -20000, 2, -10000, 0, -10000
+# FINISH
+# INIT: I am agent 10
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# VOTE: 1
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# VOTE: 1
+# UPDATE
+Hate Score: -10000, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Talking about me: DAY 2 (DIVINED Agent[10] HUMAN)
+Hate Score: -10000, 0, 0, 1, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 0, 1, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: DIVINED Agent[10] HUMAN
+Hate Score: -10000, 0, 0, 2, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 0, 2, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 0, 2, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 0, 2, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 0, 2, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 0, 2, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 0, 2, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 0, 2, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 0, 2, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: -10000, 0, 0, 2, 0, 0, 0, 0, 0, -10000
+# VOTE: 4
+# UPDATE
+Hate Score: -20000, 0, 0, -9998, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: -20000, 0, 0, -9998, 0, 0, 10, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, 0, -9998, 0, 0, 10, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: -20000, 0, 0, -9998, 0, 0, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, 0, -9998, 0, 0, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, 0, -9998, 0, 0, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, 0, -9998, 0, 0, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, 0, -9998, 0, 0, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, 0, -9998, 0, 0, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, 0, -9998, 0, 0, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, 0, -9998, 0, 0, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, 0, -9998, 0, 0, 20, 0, 0, -10000
+# UPDATE
+Hate Score: -20000, 0, 0, -9998, 0, 0, 20, 0, 0, -10000
+# VOTE: 7
+# UPDATE
+Agent 8 voted for me!
+Hate Score: -20000, 0, 0, -9998, 0, 0, 20, 100, 0, -10000
+# VOTE: 8
+# UPDATE
+Hate Score: -20000, 0, 0, -9998, 0, 0, 20, 100, 0, -10000
+# FINISH
+# INIT: I am agent 10
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: 0, 0, 0, 0, 0, 0, 0, 0, 0, -10000
+# VOTE: 1
+# UPDATE
+Hate Score: -10000, 0, 0, -10000, 0, 0, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: -10000, 0, 0, -10000, 10, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: -10000, 0, 10, -10000, 10, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: -10000, 0, 20, -10000, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -10000, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -10000, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -10000, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -10000, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -10000, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -10000, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -10000, 20, 0, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -10000, 0, 20, -10000, 20, 0, 0, 0, 0, -10000
+# UPDATE
+Hate Score: -10000, 0, 20, -10000, 20, 0, 0, 0, 0, -10000
+# VOTE: 3
+# UPDATE
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 0, 0, 0, -10000
+# DAYSTART
+# UPDATE
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 0, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: VOTE Agent[10]
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 10, 0, 0, -10000
+# TALK
+# UPDATE
+Talking about me: REQUEST ANY (VOTE Agent[10])
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 20, 0, 0, -10000
+# TALK
+# UPDATE
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 20, 0, 0, -10000
+# UPDATE
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 20, 0, 0, -10000
+# VOTE: 5
+# UPDATE
+Hate Score: -20000, 0, -9980, -20000, 20, -10000, 20, 0, 0, -10000
+# FINISH
